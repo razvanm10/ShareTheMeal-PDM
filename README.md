@@ -1,6 +1,6 @@
 # pdm_project
 
-A new Flutter project.
+University Project. Application is not fully done, it has also some harcoded data just because I decided to make sure all the parts that i want o integrate are working well together. I think this is a good starting point for what can I do next with it.
 
 ## Getting Started
 
